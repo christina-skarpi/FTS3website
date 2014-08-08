@@ -1,0 +1,59 @@
+/* line 7, ../sass/colors.scss */
+body {
+  color: #444444;
+}
+
+/* line 8, ../sass/colors.scss */
+#wrapper {
+  background: #ffffff;
+}
+
+/* line 9, ../sass/colors.scss */
+a, a:hover {
+  color: #4d94cd;
+}
+
+/* line 10, ../sass/colors.scss */
+a:visited {
+  color: #4d94cd;
+}
+
+/* line 11, ../sass/colors.scss */
+#site-name a, #header h3 {
+  color: #333333;
+}
+
+/* line 12, ../sass/colors.scss */
+#main-navigation a.active-trail {
+  background: #ffffff;
+}
+
+/* line 13, ../sass/colors.scss */
+#main-navigation a {
+  background: #4d94ce;
+  border-color: #4d94ce;
+  color: #fefefe;
+}
+
+/* line 14, ../sass/colors.scss */
+#main-navigation a:hover {
+  background: #ffffff;
+  color: #444444;
+}
+
+/* line 15, ../sass/colors.scss */
+#header {
+  border-top-color: #4d94cc;
+  background-color: #eaeaea;
+}
+
+/* line 16, ../sass/colors.scss */
+.sidebars .block {
+  border-color: #e0e0e0;
+}
+
+/* line 18, ../sass/colors.scss */
+#navlinks.button, #navdrop ul li a.active, #navdrop ul li a.active + ul, #search-block-form input[type=submit], #cernsearch-block-form input[type=submit] {
+  color: #fefefe;
+  background-color: #4d94ce;
+}

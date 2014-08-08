@@ -1,0 +1,45 @@
+
+Last check:  Fri Aug 8 06:07:22 CEST 2014
+
+The following modules are centrally managed and do not need to be installed locally on your site:
+
+MODULE      YOUR_VERSION  YOUR_DATE   OUR_VERSION  OUR_DATE    RESULT      ACTION
+**********  **********    **********  **********   **********  **********  **********
+panels      7.x-3.4       2014-02-12  7.x-3.4      2014-02-12  identical   remove
+devel       7.x-1.4       2014-02-05  7.x-1.5      2014-05-01  older       remove
+views       7.x-3.7       2013-04-09  7.x-3.8      2014-05-20  older       remove
+
+
+identical = The module is identical (hash code matches) with our centrally managed version, it can be safely removed
+older = The module is older than the centrally managed version, it is recommended to remove it and upgrade
+to the centrally managed version, as the new version may contain important security and bug fixes.
+newer = Your module is newer than the centrally managed version
+different = The module is different than the centrally managed one, please check versions manually
+
+
+
+As a reminder, you have locally installed the following modules.
+These modules are not centrally managed and you are responsible for updating them.
+No support is provided by the CERN Drupal hosting infrastructure.
+Check Drupal project pages for more information (links auto-generated).
+
+MODULE               VERSION        DATE        CHECK_PROJECT_PAGE
+**********           **********     **********  **********
+blockify             7.x-1.2        2011-04-21  <a                  href="http://drupal.org/project/blockify">http://drupal.org/project/blockify</a>
+botcha               7.x-3.3        2013-08-14  <a                  href="http://drupal.org/project/botcha">http://drupal.org/project/botcha</a>
+colorbox             7.x-2.5        2013-11-30  <a                  href="http://drupal.org/project/colorbox">http://drupal.org/project/colorbox</a>
+command_buttons      7.x-1.0        2014-02-25  <a                  href="http://drupal.org/project/command_buttons">http://drupal.org/project/command_buttons</a>
+content_type_extras  7.x-1.8        2014-04-11  <a                  href="http://drupal.org/project/content_type_extras">http://drupal.org/project/content_type_extras</a>
+embed_views          7.x-1.2        2012-06-22  <a                  href="http://drupal.org/project/embed_views">http://drupal.org/project/embed_views</a>
+entityform           7.x-2.0-beta3  2014-03-27  <a                  href="http://drupal.org/project/entityform">http://drupal.org/project/entityform</a>
+gmap                 7.x-2.9        2014-03-10  <a                  href="http://drupal.org/project/gmap">http://drupal.org/project/gmap</a>
+google_map_field     7.x-2.4        2013-08-14  <a                  href="http://drupal.org/project/google_map_field">http://drupal.org/project/google_map_field</a>
+jquery_plugin        7.x-1.0        2011-01-06  <a                  href="http://drupal.org/project/jquery_plugin">http://drupal.org/project/jquery_plugin</a>
+location             7.x-3.2        2014-03-10  <a                  href="http://drupal.org/project/location">http://drupal.org/project/location</a>
+menu_firstchild      7.x-1.1        2011-11-08  <a                  href="http://drupal.org/project/menu_firstchild">http://drupal.org/project/menu_firstchild</a>
+quicktabs            7.x-3.6        2013-10-02  <a                  href="http://drupal.org/project/quicktabs">http://drupal.org/project/quicktabs</a>
+slideshow_creator    7.x-1.12       2013-06-12  <a                  href="http://drupal.org/project/slideshow_creator">http://drupal.org/project/slideshow_creator</a>
+special_menu_items   7.x-2.0        2012-09-04  <a                  href="http://drupal.org/project/special_menu_items">http://drupal.org/project/special_menu_items</a>
+superfish            7.x-1.9        2013-04-27  <a                  href="http://drupal.org/project/superfish">http://drupal.org/project/superfish</a>
+views_accordion      7.x-1.0        2014-03-06  <a                  href="http://drupal.org/project/views_accordion">http://drupal.org/project/views_accordion</a>
+views_contact_form   7.x-1.5        2013-09-19  <a                  href="http://drupal.org/project/views_contact_form">http://drupal.org/project/views_contact_form</a>

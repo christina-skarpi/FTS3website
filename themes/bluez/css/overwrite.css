@@ -1,0 +1,62 @@
+
+
+.col-content {
+    text-align: justify;
+}
+/*
+.contend td {
+    background: none repeat-x scroll 50% 50% rgba(153, 214, 235, 0.19);
+    padding-bottom: 8px;
+    padding-left: 20px;
+    
+    color: #757575;
+}
+*/
+/*
+ Set a custom size on the logo
+#header h1#logo a img {
+	width: 350px;
+        margin: 0 auto;
+}
+*/
+
+
+/* Responsive styles below - these apply only at certain screen sizes */
+
+
+/*
+// -----------------------------------------------------------------
+// Large screens
+// -----------------------------------------------------------------
+*/
+@media screen and (min-width: 1300px) {
+
+
+
+}
+
+
+
+
+/*
+// -----------------------------------------------------------------
+// Tablet - portrait
+// -----------------------------------------------------------------
+*/
+@media only screen and (min-width: 768px) {
+
+
+}
+
+
+
+/*
+// -----------------------------------------------------------------
+// Desktop and Tablet Landscape
+// -----------------------------------------------------------------
+*/
+
+@media only screen and (min-width: 1024px) {
+
+
+}
